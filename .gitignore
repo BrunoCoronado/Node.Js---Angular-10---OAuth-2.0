@@ -1,0 +1,8 @@
+AUTH-SERVER/node_modules/
+CLIENTE-NODEJS-ORACLE/node_modules/
+RESOURCE-SERVER/node_modules/
+
+AUTH-SERVER/config/database.js
+
+CLIENTE-NODEJS-ORACLE/dist/
+
